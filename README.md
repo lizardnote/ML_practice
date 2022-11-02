@@ -1,2 +1,2 @@
-# DL_practice
+# ML/DL_practice
 deeplearning practice
