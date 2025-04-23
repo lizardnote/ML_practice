@@ -1,2 +1,2 @@
 # ML/DL_practice
-deeplearning practice
+Ohreilly's machine learning
